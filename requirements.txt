@@ -1,0 +1,3 @@
+# Python Clean Code Basics
+# No external dependencies for this project
+# This file shows good practice for dependency management
